@@ -1,0 +1,117 @@
+{
+  "project": "ManaCurveAnalyzer",
+  "deck_name": "Varina_LichQueen_Budget",
+  "analysis_date": "2025-07-22",
+  "input_file": "./organized_decks/Varina/varina-budget-archidekt.txt",
+  "analysis": {
+    "total_nonland_cards": 57,
+    "converted_mana_cost_distribution": {
+      "CMC_0": 0,
+      "CMC_1": 11,
+      "CMC_2": 16,
+      "CMC_3": 12,
+      "CMC_4": 9,
+      "CMC_5": 6,
+      "CMC_6_plus": 3
+    },
+    "average_cmc": 2.84,
+    "curve_analysis": {
+      "low_curve_cards_0_3": 39,
+      "percentage_low_curve": 68.4,
+      "high_curve_cards_6_plus": 3,
+      "percentage_high_curve": 5.3
+    }
+  },
+  "detailed_breakdown": {
+    "CMC_1": [
+      "Sol Ring",
+      "Diregraf Ghoul", 
+      "Carrion Feeder",
+      "Swords to Plowshares",
+      "Path to Exile",
+      "Counterspell",
+      "Negate",
+      "Swan Song",
+      "Dovin's Veto",
+      "Mortify",
+      "Render Silent"
+    ],
+    "CMC_2": [
+      "Gravecrawler",
+      "Wayward Servant",
+      "Wight of Precinct Six",
+      "Arcane Signet",
+      "Dimir Signet",
+      "Azorius Signet", 
+      "Orzhov Signet",
+      "Mind Stone",
+      "Night's Whisper",
+      "Sign in Blood",
+      "Embalmer's Tools",
+      "Bloodsoaked Champion",
+      "Nested Shambler",
+      "Rotting Rats",
+      "Gleaming Overseer",
+      "Vizier of the Scorpion"
+    ],
+    "CMC_3": [
+      "Undead Augur",
+      "Cemetery Reaper",
+      "Death Baron",
+      "Diregraf Captain",
+      "Lord of the Accursed",
+      "Fleshbag Marauder",
+      "Plaguebearer",
+      "Putrid Goblin",
+      "Shambling Ghoul",
+      "Read the Bones",
+      "Divination",
+      "Phyrexian Arena"
+    ],
+    "CMC_4": [
+      "Varina, Lich Queen",
+      "Undead Warchief",
+      "Zombie Master",
+      "Worn Powerstone",
+      "Commander's Sphere",
+      "Wrath of God",
+      "Day of Judgment",
+      "Feed the Swarm",
+      "Ghostly Prison"
+    ],
+    "CMC_5": [
+      "Gray Merchant of Asphodel",
+      "Relentless Dead",
+      "Door of Destinies",
+      "Endless Ranks of the Dead",
+      "Call to the Grave",
+      "Propaganda"
+    ],
+    "CMC_6_plus": [
+      "Zombie Apocalypse (6)",
+      "Living Death (5)",
+      "Favorable Winds (2)"
+    ]
+  },
+  "flags": {
+    "low_curve": {
+      "criteria": "average_cmc < 3.0",
+      "status": true,
+      "message": "Excellent aggressive curve for zombie tribal"
+    },
+    "high_curve": {
+      "criteria": "average_cmc > 6.0", 
+      "status": false,
+      "message": "Successfully avoiding high curve - perfect for Varina's aggressive strategy"
+    }
+  },
+  "recommendations": {
+    "curve_optimization": "EXCELLENT",
+    "notes": [
+      "Strong 1-2 CMC foundation (47.4% of deck)",
+      "Good 3-CMC support cards (21.1%)",
+      "Minimal high-cost cards (5.3%)",
+      "Perfect for aggressive zombie tribal strategy"
+    ]
+  }
+}

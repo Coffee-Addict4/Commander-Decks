@@ -1,0 +1,43 @@
+{
+  "project": "ManaCurveAnalyzer",
+  "input_file": "./decks/Yuriko_ShadowNinja.txt",
+  "analysis": {
+    "metrics": {
+      "converted_mana_cost_distribution": true,
+      "average_cmc": true,
+      "low_curve_threshold": 3,
+      "high_curve_threshold": 6
+    },
+    "output": {
+      "format": "summary",
+      "file": "./analysis/Yuriko_mana_curve.json"
+    }
+  },
+  "formula": {
+    "distribution": {
+      "method": "count_per_cmc",
+      "example": {
+        "CMC_1": 12,
+        "CMC_2": 10,
+        "CMC_3": 8,
+        "CMC_4": 5,
+        "CMC_5": 3,
+        "CMC_6_plus": 2
+      }
+    },
+    "average_cmc": {
+      "method": "sum(cmc_values) / total_card_count",
+      "example": "Total CMC = 102, Total cards = 40 → Average CMC = 2.55"
+    }
+  },
+  "flags": {
+    "low_curve": {
+      "criteria": "average_cmc < low_curve_threshold",
+      "status": true
+    },
+    "high_curve": {
+      "criteria": "average_cmc > high_curve_threshold",
+      "status": false
+    }
+  }
+}

@@ -17,7 +17,6 @@
 1 Plaguebearer [Creature]
 1 Putrid Goblin [Creature]
 1 Shambling Ghoul [Creature]
-1 Walking Corpse [Creature]
 1 Bloodsoaked Champion [Creature]
 1 Nested Shambler [Creature]
 1 Rotting Rats [Creature]
@@ -43,7 +42,6 @@
 1 Swan Song [Instant]
 1 Dovin's Veto [Instant]
 1 Mortify [Instant]
-1 Void Rend [Instant]
 1 Render Silent [Instant]
 
 1 Wrath of God [Sorcery]
@@ -61,7 +59,6 @@
 1 Phyrexian Arena [Enchantment]
 1 Ghostly Prison [Enchantment]
 1 Propaganda [Enchantment]
-1 Intangible Virtue [Enchantment]
 1 Favorable Winds [Enchantment]
 
 1 Command Tower [Land]
@@ -88,6 +85,6 @@
 1 Orzhov Basilica [Land]
 1 Dimir Aqueduct [Land]
 1 Azorius Chancery [Land]
-8 Swamp [Land]
+7 Swamp [Land]
 6 Island [Land]
 6 Plains [Land]
