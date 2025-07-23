@@ -1,0 +1,37 @@
+{
+  "project": "CommanderDeckOrganizer",
+  "input_directory": "./decks/",
+  "output_structure": {
+    "folder_per_deck": true,
+    "naming_convention": "deck_name",
+    "file_format": ".txt"
+  },
+  "rules": {
+    "detect_deck_name": {
+      "method": "filename_prefix",
+      "delimiter": "_",
+      "example": "Atraxa_PraetorsVoice.txt → folder: Atraxa"
+    },
+    "create_folders": {
+      "if_not_exist": true,
+      "location": "./organized_decks/"
+    },
+    "move_files": {
+      "preserve_original": false,
+      "overwrite": false
+    }
+  },
+  "logging": {
+    "enabled": true,
+    "log_directory": "./logs/",
+    "unique_filename": {
+      "method": "deckname_date_time",
+      "format": "[deckname]_[YYYYMMDD]_[HHMMSS].txt"
+    },
+    "contents": {
+      "events": ["folder_created", "file_moved", "errors"],
+      "include_deck_name": true,
+      "include_timestamp": true
+    }
+  }
+}
