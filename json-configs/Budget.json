@@ -1,0 +1,73 @@
+{
+  "platform": "Archidekt",
+  "budgetConstraints": {
+    "totalBudgetUSD": 50,
+    "priceThresholds": {
+      "perCardMaxUSD": 5,
+      "preferredCardMaxUSD": 2
+    },
+    "priceSources": ["Scryfall"],
+    "recommendationBehavior": {
+      "prioritizeBudgetCards": true,
+      "excludePriceSpikes": true,
+      "allowReprints": true,
+      "preferStaplesOverLuxuryCards": true
+    }
+  },
+  "importMethods": {
+    "plainText": true,
+    "mtgo": true,
+    "mtga": true,
+    "csv": true,
+    "json": true,
+    "edhrecClipboard": true
+  },
+  "plainTextFormat": {
+    "lineStructure": "[Quantity] [Card Name] [Tag]",
+    "example": [
+      "1 Sol Ring [Artifact]",
+      "1 Command Tower [Land]",
+      "1 Arcane Signet [Artifact]",
+      "1 Feed the Swarm [Sorcery]",
+      "1 Llanowar Elves [Creature]",
+      "1 Evolving Wilds [Land]",
+      "1 Elenda, the Dusk Rose [Commander]"
+    ],
+    "tagDefinitions": {
+      "Commander": "Legendary creature designated as commander",
+      "Creature": "Permanent creature card",
+      "Artifact": "Permanent artifact card",
+      "Land": "Permanent land card",
+      "Enchantment": "Permanent enchantment card",
+      "Instant": "Instant-speed spell",
+      "Sorcery": "Sorcery-speed spell",
+      "Planeswalker": "Planeswalker card",
+      "Background": "Background support card",
+      "Companion": "Designated companion",
+      "Sideboard": "Cards set aside for gameplay variation",
+      "Maybeboard": "Cards considered but not included",
+      "Custom": "Custom or unofficial card",
+      "Other": "Cards that don't fit the above categories"
+    },
+    "commanderDeclaration": {
+      "position": "Top or bottom of list",
+      "tagsAccepted": ["[Commander]"],
+      "recommendedTag": "[Commander]"
+    }
+  },
+  "uploadProcess": {
+    "steps": [
+      "Navigate to deck page",
+      "Click 'Extras' → 'Import Cards'",
+      "Paste formatted list into input box",
+      "Verify bracketed tags and prices via Scryfall",
+      "Select format (e.g. Commander)",
+      "Submit and validate import"
+    ],
+    "formatCompliance": {
+      "legalityCheck": true,
+      "customCardsAllowed": true,
+      "customFormatOption": "Set to 'Custom' to bypass legality"
+    }
+  }
+}
