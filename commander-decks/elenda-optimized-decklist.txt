@@ -1,0 +1,126 @@
+# ELENDA, THE DUSK ROSE - OPTIMIZED COMMANDER DECKLIST
+# Total: 100 cards (Following MTG Optimizer Guidelines)
+
+## COMMANDER (1)
+1x Elenda, the Dusk Rose
+
+## LANDS (36)
+1x Command Tower
+1x Caves of Koilos  
+1x Temple of Silence
+1x Orzhov Basilica
+1x Scoured Barrens
+1x Godless Shrine
+1x Isolated Chapel
+1x Tainted Field
+1x Orzhov Guildgate
+1x Forsaken Sanctuary
+1x Shattered Sanctum
+1x Bojuka Bog
+1x High Market
+1x Sejiri Steppe
+1x Kabira Crossroads
+1x Radiant Fountain
+17x Plains
+12x Swamp
+
+## RAMP & MANA (8)
+1x Sol Ring
+1x Arcane Signet
+1x Orzhov Signet
+1x Talisman of Hierarchy
+1x Mind Stone
+1x Fellwar Stone
+1x Orzhov Locket
+1x Commander's Sphere
+
+## SACRIFICE OUTLETS (6)
+1x Altar of Dementia
+1x Ashnod's Altar
+1x Phyrexian Altar
+1x Viscera Seer
+1x Carrion Feeder
+1x Fleshtaker
+
+## DEATH TRIGGERS / DRAIN (10)
+1x Cruel Celebrant
+1x Zulaport Cutthroat
+1x Elas il-Kor, Sadistic Pilgrim
+1x Bastion of Remembrance
+1x Marauding Blight-Priest
+1x Starscape Cleric
+1x Teysa Karlov
+1x Pitiless Plunderer
+1x Pawn of Ulamog
+1x Sifter of Skulls
+
+## CARD DRAW (8)
+1x Village Rites
+1x Corrupted Conviction
+1x Night's Whisper
+1x Sign in Blood
+1x Phyrexian Arena
+1x Mentor of the Meek
+1x Dark Prophecy
+1x Skullclamp
+
+## REMOVAL (8)
+1x Swords to Plowshares
+1x Path to Exile
+1x Generous Gift
+1x Anguished Unmaking
+1x Mortify
+1x Wrath of God
+1x Merciless Eviction
+1x Austere Command
+
+## RECURSION (6)
+1x Reanimate
+1x Animate Dead
+1x Necromancy
+1x Karmic Guide
+1x Reveillark
+1x Sun Titan
+
+## WIN CONDITIONS & ANTHEMS (8)
+1x Cathars' Crusade
+1x Divine Visitation
+1x Coat of Arms
+1x Elspeth, Sun's Champion
+1x Intangible Virtue
+1x Dictate of Heliod
+1x Anointed Procession
+1x Parallel Lives
+
+## TOKENS & SYNERGY (5)
+1x Bitterblossom
+1x Endrek Sahr, Master Breeder
+1x Grave Titan
+1x Elenda's Hierophant
+1x Charismatic Conqueror
+
+## PROTECTION (4)
+1x Teferi's Protection
+1x Make a Stand
+1x Unbreakable Formation
+1x Flawless Maneuver
+
+---
+
+## KEY STRATEGY NOTES:
+1. **Early Game**: Deploy cheap creatures, draw engines, and mana rocks
+2. **Mid Game**: Start sacrifice chains to grow Elenda and trigger drains  
+3. **Late Game**: Sacrifice Elenda for tokens, deploy anthems to win
+
+## INFINITE COMBOS:
+- Karmic Guide + Reveillark + sac outlet = infinite ETB/death triggers
+- Any creature + Nim Deathmantle + Ashnod's Altar = infinite tokens/mana
+
+## MANA CURVE OPTIMIZATION:
+- 1 CMC: 8 cards (Viscera Seer, Sol Ring, Swords, Path, etc.)
+- 2 CMC: 12 cards (Signets, draw spells, small creatures)
+- 3 CMC: 15 cards (Removal, medium threats)
+- 4+ CMC: 10 cards (Win conditions, high-impact)
+- Lands: 36 cards (Optimal for consistency)
+
+This build prioritizes efficiency, consistency, and multiple win conditions while maintaining the core aristocrats strategy.

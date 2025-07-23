@@ -1,0 +1,54 @@
+{
+  "format": "Commander",
+  "type": "Constructed",
+  "deck": {
+    "size": 100,
+    "singleton": true,
+    "commander": {
+      "required": true,
+      "type": ["Legendary Creature", "Card that states 'can be your commander'"],
+      "colorIdentityRestricted": true,
+      "partnerMechanic": {
+        "allowed": true,
+        "maxCommanders": 2,
+        "deckSizeStill100": true
+      }
+    }
+  },
+  "commandZone": {
+    "initialLocation": "Face-up in command zone",
+    "castingRules": {
+      "baseCost": "Commander mana cost",
+      "additionalTax": "2 generic mana per previous cast from command zone"
+    },
+    "replacementEffect": {
+      "zones": ["hand", "graveyard", "library", "exile"],
+      "option": "Return commander to command zone"
+    }
+  },
+  "gameplay": {
+    "players": {
+      "typicalRange": "3–5",
+      "startingLife": 40
+    },
+    "turnOrder": "Clockwise",
+    "firstPlayerDraws": true,
+    "mulliganRule": "London Mulligan",
+    "freeForAll": true,
+    "commanderDamageRule": {
+      "threshold": 21,
+      "source": "Single commander",
+      "effect": "Player loses"
+    }
+  },
+  "optionalRules": {
+    "ruleZero": {
+      "enabledByAgreement": true,
+      "examples": [
+        "Non-legendary commanders",
+        "Proxy cards",
+        "Alternate win conditions"
+      ]
+    }
+  }
+}

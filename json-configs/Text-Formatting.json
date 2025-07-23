@@ -1,0 +1,61 @@
+{
+  "platform": "Archidekt",
+  "importMethods": {
+    "plainText": true,
+    "mtgo": true,
+    "mtga": true,
+    "csv": true,
+    "json": true,
+    "edhrecClipboard": true
+  },
+  "plainTextFormat": {
+    "lineStructure": "[Quantity] [Card Name] [Tag]",
+    "example": [
+      "1 Sol Ring [Artifact]",
+      "1 Command Tower [Land]",
+      "1 Lightning Greaves [Artifact]",
+      "1 Atraxa, Praetors' Voice [Commander]",
+      "1 Swords to Plowshares [Instant]",
+      "1 Supreme Verdict [Sorcery]",
+      "1 Elspeth, Sun's Champion [Planeswalker]",
+      "1 Angelic Destiny [Enchantment]",
+      "1 Lutri, the Spellchaser [Companion]"
+    ],
+    "tagDefinitions": {
+      "Commander": "Legendary creature designated as commander",
+      "Creature": "Permanent creature card",
+      "Artifact": "Permanent artifact card",
+      "Land": "Permanent land card",
+      "Enchantment": "Permanent enchantment card",
+      "Instant": "Instant-speed spell",
+      "Sorcery": "Sorcery-speed spell",
+      "Planeswalker": "Planeswalker card",
+      "Background": "Background support card",
+      "Companion": "Designated companion",
+      "Sideboard": "Cards set aside for gameplay variation",
+      "Maybeboard": "Cards considered but not included",
+      "Custom": "Custom or unofficial card",
+      "Other": "Cards that don't fit the above categories"
+    },
+    "commanderDeclaration": {
+      "position": "Top or bottom of list",
+      "tagsAccepted": ["[Commander]"],
+      "recommendedTag": "[Commander]"
+    }
+  },
+  "uploadProcess": {
+    "steps": [
+      "Navigate to deck page",
+      "Click 'Extras' → 'Import Cards'",
+      "Paste formatted list into input box",
+      "Ensure each line ends with correct tag in brackets",
+      "Select format (e.g. Commander)",
+      "Submit and validate import"
+    ],
+    "formatCompliance": {
+      "legalityCheck": true,
+      "customCardsAllowed": true,
+      "customFormatOption": "Set to 'Custom' to bypass legality"
+    }
+  }
+}

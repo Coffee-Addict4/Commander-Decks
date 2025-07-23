@@ -1,0 +1,97 @@
+# ELENDA, THE DUSK ROSE - DECK ANALYSIS & ENHANCEMENT
+# Following MTG Optimizer Guidelines (MCP-Integrated)
+
+## COMMANDER ANALYSIS
+**Elenda, the Dusk Rose** (4 CMC - 1/1 Lifelink)
+- Grows via +1/+1 counters when creatures die
+- Creates vampire tokens equal to power when she dies
+- Key synergies: Sacrifice outlets, death triggers, +1/+1 counters, tokens
+
+## CURRENT DECK ANALYSIS (Counted: ~180 cards mainboard - OVER LIMIT)
+
+### EFFICIENCY SCORING ISSUES:
+1. **MANA CURVE PROBLEMS**:
+   - Too many high CMC recursion spells (6+ mana)
+   - Insufficient 1-2 CMC early game pieces
+   - Missing critical ramp package
+
+2. **REDUNDANCY VS EFFECTIVENESS**:
+   - 14+ Mill cards with minimal synergy payoff
+   - 30+ Recursion effects (excessive)
+   - Weak removal suite (only 2 dedicated removal spells)
+
+3. **MISSING CORE COMPONENTS**:
+   - No mana ramp (Sol Ring, Arcane Signet, etc.)
+   - Insufficient sacrifice outlets (only 3)
+   - No lands in mainboard (critical error)
+   - Missing key combo pieces
+
+### POWER EVALUATION GAPS:
+- No infinite combos despite aristocrats theme
+- Weak win conditions beyond Elenda token swarm
+- Missing protection for key pieces
+
+## ENHANCED DECKLIST RECOMMENDATIONS
+
+### IMMEDIATE CUTS (40+ cards to reach 100):
+**Mill Package Reduction** (Cut 10):
+- Corpse Churn, Dogged Detective, Grave Strength
+- Mindwrack Harpy, Mire Triton, Out of the Tombs
+- Overlord of the Balemurk, Seer of Stolen Sight
+- Snarling Gorehound, Unseal the Necropolis
+
+**Excessive Recursion** (Cut 15):
+- Abuelo's Awakening, Another Chance, Back for Seconds
+- Battle of Hoover Dam, Dig Up the Body, Endless Obedience
+- Grim Return, Helping Hand, Lich-Knights' Conquest
+- No One Left Behind, Smile at Death, Stitch Together
+- Summon Undead, Unearth, Veinwitch Coven
+
+**Weaker Lifegain** (Cut 8):
+- Noble Purpose, Noble Stand, Righteous Cause
+- Angel of Vitality, Ashes of the Abhorrent
+- Envoy of the Ancestors, Path of Bravery, Sunscorch Regent
+
+**Suboptimal Cards** (Cut 7):
+- Sunpearl Kirin, Peace of Mind, Serra Redeemer
+- Starry-Eyed Skyrider, Core Prowler
+- Resentful Revelation, Popular Egotist
+
+### ESSENTIAL ADDITIONS:
+
+**MANA BASE** (36 cards):
+- Command Tower, Sol Ring, Arcane Signet
+- Orzhov Signet, Talisman of Hierarchy
+- Caves of Koilos, Temple of Silence
+- 15 Plains, 15 Swamps
+
+**SACRIFICE OUTLETS** (Add 4):
+- Ashnod's Altar, Phyrexian Altar
+- Viscera Seer, Carrion Feeder
+
+**REMOVAL** (Add 6):
+- Swords to Plowshares, Path to Exile
+- Generous Gift, Anguished Unmaking
+- Vindicate, Wrath of God
+
+**WIN CONDITIONS** (Add 4):
+- Cathars' Crusade, Divine Visitation
+- Coat of Arms, Elspeth, Sun's Champion
+
+**PROTECTION** (Add 2):
+- Teferi's Protection, Heroic Intervention
+
+## OPTIMIZED STRATEGY FOCUS:
+1. Early game: Deploy cheap creatures and death-trigger payoffs
+2. Mid game: Sacrifice creatures to grow Elenda, trigger drains
+3. Late game: Sacrifice Elenda for massive token army, win with anthems
+
+## MANA CURVE TARGET:
+- 1 CMC: 8 cards
+- 2 CMC: 12 cards  
+- 3 CMC: 15 cards
+- 4 CMC: 12 cards
+- 5+ CMC: 10 cards
+- Lands: 36 cards
+
+This optimization follows Guidelines 1-6 for deck analysis, efficiency scoring, and power evaluation while maintaining the core Elenda vampire tribal aristocrats theme.
