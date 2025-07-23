@@ -1,0 +1,13 @@
+# Commander Deck for Enhancement
+
+Please paste your Archidekt formatted commander deck below:
+
+---
+
+[Paste your deck list here]
+
+---
+
+Notes:
+- This file is ready for your Archidekt formatted deck list
+- Once pasted, I'll analyze and enhance the deck according to the MTG Optimizer Guidelines
