@@ -1,0 +1,7 @@
+{
+  "action": "fetchCardColor",
+  "source": "Scryfall",
+  "deck": ["Sol Ring", "Counterspell", "Llanowar Elves"],
+  "results": [],
+  "script": "for each card in deck: GET https://api.scryfall.com/cards/named?exact={card} -> check 'color_identity'"
+}

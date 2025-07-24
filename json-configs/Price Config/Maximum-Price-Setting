@@ -1,0 +1,15 @@
+{
+  "filter": {
+    "type": "price_limit",
+    "max_usd": 10.00,
+    "currency": "USD",
+    "apply_to": ["usd", "usd_foil"]
+  },
+  "source": "scryfall",
+  "query": {
+    "format": "commander",
+    "legal": true,
+    "order": "usd"
+  },
+  "notes": "Only returns cards that cost $10.00 or less, including foils"
+}

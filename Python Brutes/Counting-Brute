@@ -1,0 +1,12 @@
+def count_cards_from_file(file_path):
+    total = 0
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            parts = line.strip().split()
+            if parts and parts[0].isdigit():
+                total += int(parts[0])
+    return total
+
+# Example usage
+deck_path = 'C:/GitHub/Commander-Decks/organized_decks/Phenax/phenax-crime-walls-archidekt.txt'  # Replace with your actual file path
+print(f"Total cards: {count_cards_from_file(deck_path)}")

@@ -1,0 +1,33 @@
+{
+  "task": "Count total number of cards in a decklist text file",
+  "fileInput": {
+    "path": "crime_deck.txt",
+    "encoding": "utf-8",
+    "lineFormat": "Each line starts with an integer quantity followed by a card name"
+  },
+  "logic": {
+    "initialize": {
+      "total": 0
+    },
+    "processing": {
+      "forEachLine": {
+        "strip": "Remove leading/trailing whitespace",
+        "split": "Split line into parts by spaces",
+        "check": "If first part is an integer",
+        "add": "Convert to integer and add to total"
+      }
+    }
+  },
+  "output": {
+    "display": "Total cards in decklist",
+    "format": "integer"
+  },
+  "example": {
+    "inputLines": [
+      "3 Dusk Mangler",
+      "2 Hullbreaker Horror",
+      "1 Geth, Lord of the Vault"
+    ],
+    "result": 6
+  }
+}
