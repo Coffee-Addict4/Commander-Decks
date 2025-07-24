@@ -1,0 +1,53 @@
+{
+  "CommanderDeckComposition": {
+    "TotalCards": 100,
+    "Commander": 1,
+    "Lands": {
+      "Basic": 10,
+      "NonBasic": 21,
+      "Utility": 5,
+      "Total": 36
+    },
+    "Ramp": {
+      "ManaRocks": 7,
+      "LandFetch": 9,
+      "Total": 16
+    },
+    "CardDraw": {
+      "Instant": 3,
+      "Enchantment": 2,
+      "Creature": 2,
+      "Planeswalker": 1,
+      "Total": 8
+    },
+    "Removal": {
+      "TargetedRemoval": 4,
+      "BoardWipes": 2,
+      "Total": 6
+    },
+    "Protection": {
+      "Counterspells": 2,
+      "Hexproof/Shroud": 2,
+      "Indestructible": 1,
+      "Total": 5
+    },
+    "WinCons": {
+      "ComboPieces": 3,
+      "BigThreats": 4,
+      "AlternateWinConditions": 1,
+      "Total": 8
+    },
+    "UtilityCards": {
+      "Tutors": 4,
+      "Recursion": 3,
+      "MetaTech": 2,
+      "Total": 9
+    },
+    "SynergyCards": {
+      "CommanderSynergy": 8,
+      "ArchetypeSupport": 5,
+      "TribalSupport": 3,
+      "Total": 16
+    }
+  }
+}
