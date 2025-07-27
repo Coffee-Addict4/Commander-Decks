@@ -15,25 +15,25 @@
     },
     "CardDraw": {
       "Instant": 3,
-      "Enchantment": 2,
-      "Creature": 2,
-      "Planeswalker": 1,
+      "Enchantment": 0,
+      "Creature": 5,
+      "Planeswalker": 0,
       "Total": 8
     },
     "Removal": {
-      "TargetedRemoval": 4,
-      "BoardWipes": 2,
-      "Total": 6
+      "TargetedRemoval": 6,
+      "BoardWipes": 4,
+      "Total": 10
     },
     "Protection": {
-      "Counterspells": 2,
-      "Hexproof/Shroud": 2,
+      "Counterspells": 0,
+      "Hexproof/Shroud": 0,
       "Indestructible": 1,
-      "Total": 5
+      "Total": 1
     },
     "WinCons": {
-      "ComboPieces": 3,
-      "BigThreats": 4,
+      "ComboPieces": 0,
+      "BigThreats": 7,
       "AlternateWinConditions": 1,
       "Total": 8
     },
@@ -44,9 +44,9 @@
       "Total": 9
     },
     "SynergyCards": {
-      "CommanderSynergy": 8,
-      "ArchetypeSupport": 5,
-      "TribalSupport": 3,
+      "CommanderSynergy": 5,
+      "ArchetypeSupport": 11,
+      "TribalSupport": 0,
       "Total": 16
     }
   }

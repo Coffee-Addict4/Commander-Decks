@@ -1,0 +1,111 @@
+1 Thantis, the Warweaver [Commander, Creature]
+
+# Fast Mana & Ramp (Get killing ASAP)
+1 Sol Ring [Ramp, Artifact]
+1 Arcane Signet [Ramp, Artifact]
+1 Bucknard's Everfull Purse [Ramp, Artifact]
+1 Corrupted Grafstone [Ramp, Artifact]
+1 Helm of Awakening [Ramp, Artifact]
+1 Liquimetal Torque [Ramp, Artifact]
+1 Paradise Mantle [Ramp, Artifact]
+1 Sol Talisman [Ramp, Artifact]
+1 Springleaf Drum [Ramp, Artifact]
+1 Wayfarer's Bauble [Ramp, Artifact]
+1 Birds of Paradise [Ramp, Creature]
+1 Farseek [Ramp, Sorcery]
+
+# Forced Combat Acceleration (Make them kill each other)
+1 Grand Melee [Forced Combat, Enchantment]
+1 Avatar of Slaughter [Forced Combat, Creature]
+1 Fumiko the Lowblood [Forced Combat, Creature]
+1 Assault Suit [Forced Combat, Artifact]
+1 Warmonger Hellkite [Forced Combat, Creature]
+1 Goblin Diplomats [Forced Combat, Creature]
+1 Grenzo, Havoc Raiser [Forced Combat, Creature]
+
+# Combat Damage Amplifiers (Kill harder)
+1 Gratuitous Violence [Damage Doubler, Enchantment]
+1 Dictate of the Twin Gods [Damage Doubler, Enchantment]
+
+# Death Trigger Synergy (Profit from forced combat deaths)
+1 Mayhem Devil [Death Trigger, Creature]
+1 Zulaport Cutthroat [Death Trigger, Creature] 
+1 Blood Artist [Death Trigger, Creature]
+1 Midnight Reaper [Death Trigger, Creature]
+1 Poison-Tip Archer [Death Trigger, Creature]
+1 Acidic Slime [Utility, Creature]
+1 Falkenrath Aristocrat [Sacrifice Outlet, Creature]
+
+# Goad & Attack Control (Force attacks away from you)
+1 Disrupt Decorum [Goad, Sorcery]
+1 Agitator Ant [Goad, Creature]
+1 Kardur, Doomscourge [Goad, Creature]
+1 Shiny Impetus [Goad, Aura]
+1 Parasitic Impetus [Goad, Aura]
+
+# Profit from Chaos (Get value while killing)
+1 Vicious Shadows [Value Engine, Enchantment]
+1 Stalking Vengeance [Value Engine, Creature]
+1 Kazuul, Tyrant of the Cliffs [Value Engine, Creature]
+1 Bloodthirsty Blade [Value Engine, Artifact]
+
+# Protection & Deterrents (Survive the chaos you create)
+1 Dread [Protection, Creature]
+1 Trespasser's Curse [Deterrent, Aura]
+1 Virulent Plague [Token Hate, Enchantment]
+1 Pyrohemia [Control, Enchantment]
+1 Cunning Rhetoric [Protection, Enchantment]
+
+# Draw & Advantage (Fuel the engine)
+1 Skullclamp [Equipment, Artifact]
+1 Phyrexian Arena [Draw, Enchantment]
+1 Dark Prophecy [Draw, Enchantment]
+1 Harmonize [Draw, Sorcery]
+1 Promise of Power [Draw, Sorcery]
+1 Night's Whisper [Draw, Sorcery]
+1 Temple of the False God [Fast Mana, Land]
+1 Diabolic Tutor [Tutor, Sorcery]
+
+# Token Generation (More creatures to force combat)
+1 Krenko, Mob Boss [Token Gen, Creature]
+1 Tendershoot Dryad [Token Gen, Creature]
+1 Ophiomancer [Token Gen, Creature]
+1 Awakening Zone [Token Gen, Enchantment]
+1 Bitterblossom [Token Gen, Enchantment]
+1 From Beyond [Token Gen, Enchantment]
+1 Avenger of Zendikar [Token Gen, Creature]
+1 Bane of Bala Ged [Eldrazi Payoff, Creature]
+1 Lightning Greaves [Protection, Artifact]
+
+# Removal (Clear obstacles to killing)
+1 Lightning Bolt [Removal, Instant]
+1 Chaos Warp [Removal, Instant]
+1 Beast Within [Removal, Instant]
+1 Terminate [Removal, Instant]
+1 Putrefy [Removal, Instant]
+1 Blasphemous Act [Boardwipe, Sorcery]
+
+# Mana Base (Support the killing)
+1 Command Tower [Fixing, Land]
+1 Exotic Orchard [Fixing, Land]
+1 Mana Confluence [Fixing, Land]
+1 Reflecting Pool [Fixing, Land]
+1 Overgrown Tomb [Fixing, Land]
+1 Blood Crypt [Fixing, Land]
+1 Stomping Ground [Fixing, Land]
+1 Twilight Mire [Fixing, Land]
+1 Fire-Lit Thicket [Fixing, Land]
+1 Graven Cairns [Fixing, Land]
+1 Savage Lands [Fixing, Land]
+1 Dragonskull Summit [Fixing, Land]
+1 Rootbound Crag [Fixing, Land]
+1 Woodland Cemetery [Fixing, Land]
+1 Karplusan Forest [Fixing, Land]
+1 Llanowar Wastes [Fixing, Land]
+1 Sulfurous Springs [Fixing, Land]
+1 Rogue's Passage [Utility, Land]
+1 Kessig Wolf Run [Utility, Land]
+1 Bojuka Bog [Utility, Land]
+7 Forest [Basic, Land]
+3 Mountain [Basic, Land]
+4 Swamp [Basic, Land]
