@@ -1,0 +1,116 @@
+1 Missy [Commander, Creature]
+
+# Fast Mana & Ramp (Power the aristocrats engine)
+1 Sol Ring [Ramp, Artifact]
+1 Arcane Signet [Ramp, Artifact]
+1 Bucknard's Everfull Purse [Ramp, Artifact]
+1 Corrupted Grafstone [Ramp, Artifact]
+1 Helm of Awakening [Ramp, Artifact]
+1 Liquimetal Torque [Ramp, Artifact]
+1 Paradise Mantle [Ramp, Equipment]
+1 Sol Talisman [Ramp, Artifact]
+1 Springleaf Drum [Ramp, Artifact]
+1 Wayfarer's Bauble [Ramp, Artifact]
+
+# Sacrifice Outlets (Feed the aristocrats engine)
+1 Viscera Seer [Sac Outlet, Creature]
+1 Carrion Feeder [Sac Outlet, Creature]
+1 Goblin Bombardment [Sac Outlet, Enchantment]
+1 Altar of Dementia [Sac Outlet, Artifact]
+1 Ashnod's Altar [Sac Outlet, Artifact]
+1 Thermopod [Sac Outlet, Creature]
+1 Yahenni, Undying Partisan [Sac Outlet, Creature]
+1 Woe Strider [Sac Outlet, Creature]
+
+# Token Generators (Create sacrifice fodder)
+1 Bitterblossom [Token Gen, Enchantment]
+1 Ophiomancer [Token Gen, Creature]
+1 Grave Titan [Token Gen, Creature]
+1 Kalitas, Traitor of Ghet [Token Gen, Creature]
+1 Sifter of Skulls [Token Gen, Creature]
+1 Jaxis, the Troublemaker [Token Copy, Creature]
+
+# Death Triggers & Payoffs (Profit from sacrifice)
+1 Zulaport Cutthroat [Death Trigger, Creature]
+1 Blood Artist [Death Trigger, Creature]
+1 Mayhem Devil [Death Trigger, Creature]
+1 Preacher of the Schism [Value/Token, Creature]
+1 Syr Konrad, the Grim [Death Trigger, Creature]
+1 Warlock Class [Sacrifice Payoff, Enchantment]
+1 Midnight Reaper [Death Draw, Creature]
+1 Grim Haruspex [Death Draw, Creature]
+1 Morbid Opportunist [Death Draw, Creature]
+
+# Recursion & Value (Reuse sacrificed creatures)
+1 Reassembling Skeleton [Recursion, Creature]
+1 Bloodsoaked Champion [Recursion, Creature]
+1 Gravecrawler [Recursion, Creature]
+1 Bloodghast [Recursion, Creature]
+1 Undead Butler [Recursion/Value, Creature]
+1 Tenacious Dead [Recursion, Creature]
+1 Phyrexian Reclamation [Recursion, Enchantment]
+1 Animate Dead [Recursion, Enchantment]
+
+# Card Draw & Advantage (Fuel the engine)
+1 Skullclamp [Draw, Artifact]
+1 Braids, Arisen Nightmare [Draw/Sac, Creature]
+1 Ledger Shredder [Draw, Creature]
+1 Professional Face-Breaker [Value, Creature]
+1 Sea Gate Oracle [Card Selection, Creature]
+1 Notion Thief [Draw Control, Creature]
+1 Night's Whisper [Draw, Sorcery]
+1 Sign in Blood [Draw, Sorcery]
+
+# Tutors & Selection (Find key pieces)
+1 Dihada's Ploy [Selection/Draw, Instant]
+1 Demonic Tutor [Tutor, Sorcery]
+1 Diabolic Intent [Tutor, Sorcery]
+1 Entomb [Tutor, Instant]
+1 Buried Alive [Tutor, Sorcery]
+
+# Removal & Interaction (Clear obstacles)
+1 Cut Down [Removal, Instant]
+1 Dreadbore [Removal, Sorcery]
+1 Terminate [Removal, Instant]
+1 Lightning Bolt [Removal, Instant]
+1 Into the Roil [Removal, Instant]
+1 Toxic Deluge [Boardwipe, Sorcery]
+
+# Combo Pieces & Win Conditions
+1 Pitiless Plunderer [Combo, Creature]
+1 Nim Deathmantle [Combo, Artifact]
+1 Mikaeus, the Unhallowed [Combo, Creature]
+1 Triskelion [Combo, Artifact]
+
+# Protection & Utility
+1 Lightning Greaves [Protection, Artifact]
+1 Swiftfoot Boots [Protection, Artifact]
+1 Ghost Quarter [Utility, Land]
+1 Tectonic Edge [Utility, Land]
+
+# Mana Base (Support Grixis colors)
+1 Command Tower [Fixing, Land]
+1 Exotic Orchard [Fixing, Land]
+1 Mana Confluence [Fixing, Land]
+1 City of Brass [Fixing, Land]
+1 Reflecting Pool [Fixing, Land]
+1 Watery Grave [Fixing, Land]
+1 Steam Vents [Fixing, Land]
+1 Blood Crypt [Fixing, Land]
+1 Terramorphic Expanse [Fetch, Land]
+1 Evolving Wilds [Fetch, Land]
+1 Fabled Passage [Fetch, Land]
+1 Drowned Catacomb [Fixing, Land]
+1 Sulfur Falls [Fixing, Land]
+1 Dragonskull Summit [Fixing, Land]
+1 Temple of Deceit [Fixing, Land]
+1 Temple of Epiphany [Fixing, Land]
+1 Temple of Malice [Fixing, Land]
+1 Crumbling Necropolis [Fixing, Land]
+1 Shadowblood Ridge [Fixing, Land]
+1 Shivan Reef [Fixing, Land]
+1 Underground River [Fixing, Land]
+1 Bojuka Bog [Utility, Land]
+3 Island [Basic, Land]
+3 Swamp [Basic, Land]
+3 Mountain [Basic, Land]

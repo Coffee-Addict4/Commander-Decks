@@ -8,5 +8,5 @@ def count_cards_from_file(file_path):
     return total
 
 # Example usage
-deck_path = 'C:/GitHub/Commander-Decks/organized_decks/Thantis/thantis-aggro-ramp.txt'  # Replace with your actual file path
+deck_path = 'C:/GitHub/Commander-Decks/organized_decks/Missy/missy-aristocrats.txt'  # Replace with your actual file path
 print(f"Total cards: {count_cards_from_file(deck_path)}")
